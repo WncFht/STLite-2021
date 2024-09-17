@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fanghaotian\Desktop\STLite_ACM-2021-master\STLite_ACM-2021-master\vector\build\CMakeFiles\3bd9d2a8dd63fc785bc26286e334fecb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{50E21D74-DD58-3C97-B6FB-F7BB223D1D81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

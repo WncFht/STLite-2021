@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\fanghaotian\Desktop\STLite_ACM-2021-master\STLite_ACM-2021-master\vector\data\two\code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\fanghaotian\Desktop\STLite_ACM-2021-master\STLite_ACM-2021-master\vector\data\class-bint.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\fanghaotian\Desktop\STLite_ACM-2021-master\STLite_ACM-2021-master\vector\data\class-integer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\fanghaotian\Desktop\STLite_ACM-2021-master\STLite_ACM-2021-master\vector\data\class-matrix.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\fanghaotian\Desktop\STLite_ACM-2021-master\STLite_ACM-2021-master\vector\exceptions.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\fanghaotian\Desktop\STLite_ACM-2021-master\STLite_ACM-2021-master\vector\utility.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\fanghaotian\Desktop\STLite_ACM-2021-master\STLite_ACM-2021-master\vector\vector.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fanghaotian\Desktop\STLite_ACM-2021-master\STLite_ACM-2021-master\vector\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DF773F5F-4AD9-3844-86F7-1A2EB862133C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FEE47B6C-EFAB-38A3-9209-642788346107}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

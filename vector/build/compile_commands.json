@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/fanghaotian/Desktop/STLite_ACM-2021-master/STLite_ACM-2021-master/vector/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/vector.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\vector.dir\\data\\one.memcheck\\code.cpp.obj -c C:\\Users\\fanghaotian\\Desktop\\STLite_ACM-2021-master\\STLite_ACM-2021-master\\vector\\data\\one.memcheck\\code.cpp",
+  "file": "C:/Users/fanghaotian/Desktop/STLite_ACM-2021-master/STLite_ACM-2021-master/vector/data/one.memcheck/code.cpp",
+  "output": "CMakeFiles/vector.dir/data/one.memcheck/code.cpp.obj"
+}
+]
